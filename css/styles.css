@@ -11,9 +11,6 @@ html {
     box-sizing: inherit;
 }
 /* ------ Variables ------ */
-/*
-more styles
-*/
 :root{
     /* page specific colors */    
     --main-color:rgb(4, 95, 102);
@@ -33,7 +30,7 @@ more styles
     --block-text-font-face:"fira_sansregular";
 }
 
-
+/* ------ HTML Element Selectors ------ */
 body {
     margin: 0;
     font-family: var(--block-text-font-face), 'Verdana', sans-serif;        
