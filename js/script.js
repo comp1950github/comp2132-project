@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     
     <link rel="stylesheet" href="css/styles.css">
-    <script src=""></script>
+    
 </head>
 <body>
     <div id="wrapper">
